@@ -6,6 +6,8 @@ from time import sleep
 import requests
 from bs4 import BeautifulSoup
 
+from charts import chart
+
 
 class WebScraping:
     def __init__(self, url):
@@ -35,14 +37,7 @@ def save_data(filename: str, movies: dict):
 
 
 if __name__ == "__main__":
-    chart = {
-        1: 'Top 250 Movies',
-        2: 'Most Popular Movies',
-        3: 'Top 250 TV Shows',
-        4: 'Most Popular TV Shows',
-        5: 'Lowest Rated Movies',
-        6: 'Top Rated English Movies'
-    }
+
     scraping = True
 
     while scraping:
