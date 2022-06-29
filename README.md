@@ -8,6 +8,10 @@
 
 ### - Most Popular TV Shows
 
+### - Lowest Rated Movies
+
+### - Top Rated English Movies
+
 ### Info
 
 ```
