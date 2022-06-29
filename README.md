@@ -12,7 +12,7 @@
 
 ```
 The file takes the title, year and IMDb rating from the particular chart
-and writes the information in `.csv` file in the current dir.
+and writes the information in '.csv' file in the current dir.
 
 The script skips the Movies/TV shows which has NO rating in the charts.
 ```
@@ -21,19 +21,19 @@ The script skips the Movies/TV shows which has NO rating in the charts.
 
 ```
 1. Initialize python virtual environment
-    - python -m venv venv
+    $ python -m venv venv
 2. Activate virtual environment
-    - For Windows:
-        - .\venv\Scripts\activate
-    - For Linux:
-        - venv/bin/activate
+    For Windows:
+        $ .\venv\Scripts\activate
+    For Linux:
+        $ venv/bin/activate
 3. Update pip manager
-    - For Windows:
-        - python -m pip install -- upgrade pip
-    - For Linux:
-        - pip install pip -U
+    For Windows:
+        $ python -m pip install -- upgrade pip
+    For Linux:
+        $ pip install pip -U
 4. Install pip requirements
-    - pip install -r requirements.txt
+    $ pip install -r requirements.txt
 ```
 
 ### To do
