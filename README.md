@@ -38,6 +38,10 @@ The script skips the Movies/TV shows which has NO rating in the charts.
         $ pip install pip -U
 4. Install pip requirements
     $ pip install -r requirements.txt
+5. Usage
+    $ python3 main.py
+    or
+    $ py main.py
 ```
 
 ### To do
