@@ -1,11 +1,13 @@
 from __future__ import annotations
 
-import csv
+import os
+from os import path
 from time import sleep
 
 import requests
 from bs4 import BeautifulSoup
 
+import csv
 from charts import chart
 
 
@@ -28,8 +30,8 @@ class WebScraping:
 
 
 def save_data(filename: str, movies: dict):
-    with open(filename, "w", newline="") as out_file:
-        writer = csv.writer(out_file)
+    with open(filename, "w", newline="") as file:
+        writer = csv.writer(file)
         writer.writerow(["Movie title", "Year", "IMDb rating"])
         for title, year_rating in movies.items():
             for year, rating in year_rating.items():
@@ -37,6 +39,10 @@ def save_data(filename: str, movies: dict):
 
 
 def run():
+    if not path.isdir('csv'):
+        os.mkdir('csv')
+    os.chdir('csv')
+
     scraping = True
 
     while scraping:

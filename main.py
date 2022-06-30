@@ -1,8 +1,8 @@
-import get_charts
+from get_charts import run
 
 
 def main():
-    get_charts.run()
+    run()
 
 
 if __name__ == '__main__':
