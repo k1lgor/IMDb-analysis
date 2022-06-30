@@ -36,8 +36,7 @@ def save_data(filename: str, movies: dict):
                 writer.writerow([title, year, rating])
 
 
-if __name__ == "__main__":
-
+def run():
     scraping = True
 
     while scraping:
