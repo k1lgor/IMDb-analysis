@@ -1,87 +1,91 @@
-Movie title                                 ,Year,IMDb rating
-Spiderhead                                  ,2022,5.4
-Top Gun: Maverick                           ,2022,8.6
-Lightyear                                   ,2022,5.3
-Doctor Strange in the Multiverse of Madness ,2022,7.1
-Elvis                                       ,2022,7.8
-Jurassic World Dominion                     ,2022,6.0
-Top Gun                                     ,1986,6.9
-The Black Phone                             ,2021,7.3
-Hustle                                      ,2022,7.4
-Everything Everywhere All at Once           ,2022,8.3
-Crimes of the Future                        ,2022,6.1
-Father of the Bride                         ,2022,5.9
-"Good Luck to You, Leo Grande"              ,2022,7.1
-Sing 2                                      ,2021,7.4
-Watcher                                     ,2022,6.3
-The Man from Toronto                        ,2022,5.7
-The Northman                                ,2022,7.2
-The Batman                                  ,2022,7.9
-Jerry & Marge Go Large                      ,2022,6.9
-The Unbearable Weight of Massive Talent     ,2022,7.1
-The Godfather                               ,1972,9.2
-Cha Cha Real Smooth                         ,2022,7.4
-Fantastic Beasts: The Secrets of Dumbledore ,2022,6.2
-X                                           ,2022,6.6
-Mad God                                     ,2021,6.8
-No Time to Die                              ,2021,7.3
-Bhool Bhulaiyaa 2                           ,2022,5.9
-Interceptor                                 ,2022,4.5
-Jurassic Park                               ,1993,8.2
-Spider-Man: No Way Home                     ,2021,8.3
-Morbius                                     ,2022,5.2
-The Lost City                               ,2022,6.2
-Minions: The Rise of Gru                    ,2022,7.4
-Vikram                                      ,2022,8.8
-Uncharted                                   ,2022,6.4
-Downton Abbey: A New Era                    ,2022,7.5
-365 dni                                     ,2020,3.3
-Jurassic World: Fallen Kingdom              ,2018,6.1
-Death on the Nile                           ,2022,6.3
-It                                          ,2017,7.3
-RRR (Rise Roar Revolt)                      ,2022,8.1
-Beavis and Butt-Head Do the Universe        ,2022,7.2
-Ghostbusters: Afterlife                     ,2021,7.1
-What Is a Woman?                            ,2022,8.6
-Sonic the Hedgehog 2                        ,2022,6.6
-Jurassic World                              ,2015,6.9
-The Bad Guys                                ,2022,6.9
-Pleasure                                    ,2021,6.3
-Midsommar                                   ,2019,7.1
-Love & Gelato                               ,2022,5.2
-Dune: Part One                              ,2021,8.0
-Once Upon a Time in... Hollywood            ,2019,7.6
-Collision                                   ,2022,3.8
-The Godfather Part II                       ,1974,9.0
-Star Wars                                   ,1977,8.6
-La Ira de Dios                              ,2022,5.6
-777 Charlie                                 ,2022,9.2
-Ambulance                                   ,2022,6.1
-Old                                         ,2021,5.8
-Last Night in Soho                          ,2021,7.1
-Terror on the Prairie                       ,2022,7.5
-House of Gucci                              ,2021,6.6
-Senior Year                                 ,2022,5.5
-Chip 'n Dale: Rescue Rangers                ,2022,7.0
-The Shawshank Redemption                    ,1994,9.3
-The Good Neighbor                           ,2022,6.1
-Eternals                                    ,2021,6.3
-365 Days: This Day                          ,2022,2.5
-The Card Counter                            ,2021,6.3
-Last Seen Alive                             ,2022,5.6
-Father Stu                                  ,2022,6.4
-Star Wars: Episode I - The Phantom Menace   ,1999,6.5
-Men                                         ,2022,6.2
-Fire Island                                 ,2022,6.7
-Avengers: Endgame                           ,2019,8.4
-Doctor Strange                              ,2016,7.5
-Whiplash                                    ,2014,8.5
-Bohemian Rhapsody                           ,2018,7.9
-The Longest Yard                            ,1974,7.1
-The Mist                                    ,2007,7.1
-Star Wars: Episode III - Revenge of the Sith,2005,7.6
-The Wolf of Wall Street                     ,2013,8.2
-Titanic                                     ,1997,7.9
-Hustlers                                    ,2019,6.3
-Free Guy                                    ,2021,7.1
-Mission: Impossible                         ,1996,7.1
+Movie title,Year,IMDb rating
+Hocus Pocus 2,2022,6.1
+Blonde,2022,5.5
+Hocus Pocus,1993,6.9
+Smile,2022,6.9
+Bullet Train,2022,7.4
+Don't Worry Darling,2022,6.3
+Amsterdam,2022,6.2
+Hellraiser,1987,6.9
+Bros,2022,6.9
+Mr. Harrigan's Phone,2022,6.0
+The Munsters,2022,4.6
+The Greatest Beer Run Ever,2022,6.8
+Lou,2022,6.1
+Luckiest Girl Alive,2022,6.4
+Top Gun: Maverick,2022,8.4
+X,2022,6.6
+Last Seen Alive,2022,5.6
+The Woman King,2022,6.6
+Vesper,2022,6.1
+Thor: Love and Thunder,2022,6.4
+Jeepers Creepers: Reborn,2022,2.4
+Barbarian,2022,7.6
+Do Revenge,2022,6.4
+Entergalactic,2022,7.5
+Fall,2022,6.4
+Vikram Vedha,2022,7.2
+Pearl,2022,7.5
+DC League of Super-Pets,2022,7.4
+Inheritance,2020,5.5
+Ponniyin Selvan: I,2022,8.4
+Where the Crawdads Sing,2022,7.1
+Elvis,2022,7.5
+Avatar,2009,7.8
+Everything Everywhere All at Once,2022,8.1
+Nope,2022,6.9
+Ticket to Paradise,2022,6.4
+Significant Other,2022,5.7
+Bones and All,2022,7.0
+Triangle of Sadness,2022,7.9
+Terrifier 2,2022,7.5
+See How They Run,2022,6.7
+Athena,2022,6.8
+Top Gun,1986,6.9
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8
+The Black Phone,2021,7.0
+Bodies Bodies Bodies,2022,6.3
+Dahmer,2002,5.6
+My Friend Dahmer,2017,6.2
+Pinocchio,2022,5.1
+Halloween,1978,7.7
+The Wonder,2022,7.2
+Tár,2022,8.2
+"Lyle, Lyle, Crocodile",2022,6.4
+Prey,2022,7.2
+The Godfather,1972,9.2
+Memory,2022,5.7
+My Best Friend's Exorcism,2022,5.3
+God's Country,2022,5.6
+The Batman,2022,7.9
+Dead for a Dollar,2022,5.1
+After Ever Happy,2022,4.4
+The Banshees of Inisherin,2022,8.3
+The Gray Man,2022,6.5
+Jurassic World Dominion,2022,5.7
+Kantara,2022,9.5
+Three Thousand Years of Longing,2022,6.8
+Till,2022,7.5
+Glass Onion: A Knives Out Mystery,2022,8.0
+The Invitation,2022,5.2
+Beetle Juice,1988,7.5
+Interview with the Vampire: The Vampire Chronicles,1994,7.5
+Midsommar,2019,7.1
+The Whale,2022,8.8
+Speak No Evil,2022,6.6
+American Psycho,2000,7.6
+The Shawshank Redemption,1994,9.3
+Super Mario Bros.,1993,4.1
+Scream,2022,6.3
+Rogue One,2016,7.8
+The Northman,2022,7.1
+Uncharted,2022,6.3
+Dune: Part One,2021,8.0
+Beast,2022,5.6
+Spider-Man: No Way Home,2021,8.3
+Catherine Called Birdy,2022,6.5
+Father Stu,2022,6.5
+Orphan: First Kill,2022,5.9
+Trick 'r Treat,2007,6.7
+Blackout,2022,3.9
+A Jazzman's Blues,2022,6.7

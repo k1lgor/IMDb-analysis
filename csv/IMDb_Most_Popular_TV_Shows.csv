@@ -1,98 +1,100 @@
-Movie title                               ,Year,IMDb rating
-Stranger Things                           ,2016,8.7
-The Boys                                  ,2019,8.7
-Obi-Wan Kenobi                            ,2022,7.2
-The Umbrella Academy                      ,2019,8.0
-The Summer I Turned Pretty                ,2022,7.7
-The Old Man                               ,2022,8.6
-Peaky Blinders                            ,2013,8.8
-Ms. Marvel                                ,2022,6.1
-Better Call Saul                          ,2015,8.8
-Game of Thrones                           ,2011,9.2
-Westworld                                 ,2016,8.6
-Star Trek: Strange New Worlds             ,2022,8.2
-The Bear                                  ,2022,8.5
-The Offer                                 ,2022,8.7
-Breaking Bad                              ,2008,9.5
-The Orville                               ,2017,8.0
-God's Favorite Idiot                      ,2022,5.7
-Yellowstone                               ,2018,8.7
-Sherwood                                  ,2022,7.7
-Barry                                     ,2018,8.4
-First Kill                                ,2022,6.3
-The Staircase                             ,2022,7.2
-The Time Traveler's Wife                  ,2022,7.7
-The Lincoln Lawyer                        ,2022,7.7
-Ozark                                     ,2017,8.5
-Severance                                 ,2022,8.7
-For All Mankind                           ,2019,7.9
-The Walking Dead                          ,2010,8.2
-"Love, Death & Robots"                    ,2019,8.4
-Man vs. Bee                               ,2022,7.0
-Grey's Anatomy                            ,2005,7.6
-The Mandalorian                           ,2019,8.7
-Dark Winds                                ,2022,8.0
-The Office                                ,2005,9.0
-Animal Kingdom                            ,2016,8.2
-Supernatural                              ,2005,8.5
-Under the Banner of Heaven                ,2022,7.5
-The Pogmentary                            ,2022,1.0
-Halo                                      ,2022,7.0
-The Sopranos                              ,1999,9.2
-Moon Knight                               ,2022,7.4
-Criminal Minds                            ,2005,8.1
-The Flash                                 ,2014,7.6
-Euphoria                                  ,2019,8.4
-Only Murders in the Building              ,2021,8.1
-Money Heist: Korea - Joint Economic Area  ,2022,5.1
+Movie title,Year,IMDb rating
+House of the Dragon,2022,8.6
+The Lord of the Rings: The Rings of Power,2022,6.9
+Dahmer - Monster: The Jeffrey Dahmer Story,2022,8.1
+Andor,2022,8.1
+She-Hulk: Attorney at Law,2022,5.0
+The Walking Dead,2010,8.1
+Game of Thrones,2011,9.2
+The Empress,2022,7.9
+Interview with the Vampire,2022,6.6
+American Horror Story,2011,8.0
+Rick and Morty,2013,9.2
+The Handmaid's Tale,2017,8.4
+The Midnight Club,2022,6.9
+Yellowstone,2018,8.7
+Better Call Saul,2015,8.9
+Breaking Bad,2008,9.5
+Stranger Things,2016,8.7
+The Crown,2016,8.7
+Cobra Kai,2018,8.5
+Cyberpunk: Edgerunners,2022,8.5
+Grey's Anatomy,2005,7.6
+Inside Man,2022,6.4
+The Boys,2019,8.7
+The Old Man,2022,7.7
+The Bear,2022,8.5
+A Friend of the Family,2022,7.1
+Ted Lasso,2020,8.8
+Bad Sisters,2022,8.1
+The White Lotus,2021,7.6
+The Sandman,2022,7.7
+Big Sky,2020,6.8
+The Patient,2022,7.3
+Peaky Blinders,2013,8.8
 NCIS: Naval Criminal Investigative Service,2003,7.8
-Friends                                   ,1994,8.9
-She                                       ,2020,6.4
-We Own This City                          ,2022,7.6
-You Don't Know Me                         ,2021,6.9
-Suspect                                   ,2022,5.2
-Hacks                                     ,2021,8.2
-Modern Family                             ,2009,8.5
-Law & Order: Special Victims Unit         ,1999,8.1
-1883                                      ,2021,8.8
-"Love, Victor"                            ,2020,8.0
-Seinfeld                                  ,1989,8.9
-The Last Kingdom                          ,2015,8.5
-Outlander                                 ,2014,8.4
-Shameless                                 ,2011,8.6
-Black Mirror                              ,2011,8.8
-The Wire                                  ,2002,9.3
-This Is Us                                ,2016,8.7
-The Big Bang Theory                       ,2007,8.2
-Doctor Who                                ,2005,8.6
-Evil                                      ,2019,7.7
-Ted Lasso                                 ,2020,8.8
-Vikings                                   ,2013,8.5
-Irma Vep                                  ,2022,6.4
-The Blacklist                             ,2013,8.0
-Lucifer                                   ,2016,8.1
-Endeavour                                 ,2012,8.6
-Succession                                ,2018,8.8
-The Lake                                  ,2022,5.8
-Pistol                                    ,2022,7.6
-Star Wars: The Clone Wars                 ,2008,8.4
-The Book of Boba Fett                     ,2021,7.3
-The Lazarus Project                       ,2022,7.0
-Loot                                      ,2022,5.9
-Bridgerton                                ,2020,7.3
-Suits                                     ,2011,8.5
-American Horror Story                     ,2011,8.0
-Hotel Portofino                           ,2022,6.6
-The Flight Attendant                      ,2020,7.1
-Downton Abbey                             ,2010,8.7
-True Detective                            ,2014,8.9
-Night Sky                                 ,2022,7.4
-The Midwich Cuckoos                       ,2022,6.6
-Shingeki no Kyojin                        ,2013,9.0
-Superman & Lois                           ,2021,7.8
-O Escolhido                               ,2019,5.7
-Lost                                      ,2004,8.4
-It's Always Sunny in Philadelphia         ,2005,8.8
-The Rookie                                ,2018,8.0
-Midsomer Murders                          ,1997,7.9
-The Handmaid's Tale                       ,2017,8.4
+Law & Order: Special Victims Unit,1999,8.1
+Fate: The Winx Saga,2021,6.8
+The Office,2005,9.0
+Quantum Leap,2022,5.2
+Supernatural,2005,8.4
+Succession,2018,8.8
+See,2019,7.6
+Walker: Independence,2022,7.1
+1899,2022,9.3
+Reboot,2022,7.5
+The Rookie,2018,8.0
+The Sopranos,1999,9.2
+The Blacklist,2013,8.0
+Severance,2022,8.7
+Chucky,2021,7.3
+American Gigolo,2022,7.3
+The Big Bang Theory,2007,8.2
+Criminal Minds,2005,8.1
+Friends,1994,8.9
+Heartbreak High,2022,7.7
+Doctor Who,2005,8.6
+Sherwood,2022,7.4
+Karen Pirie,2022,7.4
+Only Murders in the Building,2021,8.1
+The Good Doctor,2017,8.1
+Black Bird,2022,8.2
+Young Sheldon,2017,7.6
+Gilmore Girls,2000,8.2
+Modern Family,2009,8.5
+Fire Country,2022,7.1
+Abbott Elementary,2021,8.2
+Euphoria,2019,8.4
+East New York,2022,6.9
+Shameless,2011,8.6
+Tell Me Lies,2022,6.5
+It's Always Sunny in Philadelphia,2005,8.8
+The Rookie: Feds,2022,4.6
+Ghosts,2021,7.8
+Westworld,2016,8.5
+Law & Order,1990,7.8
+FBI,2018,6.9
+Ramy,2019,8.0
+Suits,2011,8.5
+In the Dark,2019,7.6
+Welcome to Wrexham,2022,8.3
+House M.D.,2004,8.7
+Alaska Daily,2022,7.5
+Family Guy,1999,8.2
+The Serpent Queen,2022,7.6
+Atlanta,2016,8.6
+Community,2009,8.5
+Derry Girls,2018,8.5
+Black Mirror,2011,8.8
+Lucifer,2016,8.1
+Bones,2005,7.8
+Vikings,2013,8.5
+Seinfeld,1989,8.9
+The Simpsons,1989,8.7
+La Brea,2021,5.7
+The Mandalorian,2019,8.7
+Resident Alien,2021,8.1
+Vampire Academy,2022,6.0
+Chicago Fire,2012,8.0
+1883,2021,8.8
+The Last Kingdom,2015,8.5
